@@ -23,7 +23,7 @@ Supported arguments:
 
 ## About
 
-My research interests include mobile robotics, flying car, future transportation systems, real-time motion planning, decision making algorithm and fault-tolerant system architecture. I am actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
+I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include real-time planning for mobile robotics,  artificial intelligence techniques in robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intellegent machines for the next generation of transportation systems, such as autonomous vehicle for long-haul trucking and urban air mobility systems for the passenger transportation. Currently, I focus on two problems:  collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the field robot. In addition, I am proposing my final year project ideas, such as robots swarms formulation and mission schduleing using improved operational research method with AI-enhanced. If there are any collaboration chance, free to contact me via e-mail. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
 
 ## Education
 
