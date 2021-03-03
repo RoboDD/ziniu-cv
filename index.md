@@ -112,24 +112,11 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 Second Prize in Online Assessment of RoboMaster 2020 `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
 Third prize in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
 Living Book Certificate `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
-Outstanding Aesthetic Design Award of RoboMaster 2019 `Aug. 2019` <br>
-Third Prize in International Region of RoboMaster 2019 `Aug. 2019` <br>
+Outstanding Aesthetic Design Award of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+Third Prize in International Region of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
 
 ---
 
-## Teaching
-
-Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
-Teaching Assistant, **Introduction to Java II (COMP 132)** `Dickinson, 2016` <br>
-Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
-
-
-## Service
-
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
-
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Mar. 2021 -->
