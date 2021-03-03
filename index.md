@@ -84,6 +84,20 @@ Living Book Certificate `Xi'an Jiaotong-Liverpool University Library, Oct. 2019`
 Outstanding Aesthetic Design Award of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
 Third Prize in International Region of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
 
+## Extracurricular Activities
+
+### [**Captain**]() `Aug. 2019 - Jun. 2020`
+
+_XJTLU and UoL RoboMaster Team (GMaster)_<br>
+
+### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
+
+_XJTLU and UoL RoboMaster Team (GMaster)_<br>
+
+### [**Vice President**]
+
+_GMaster Robotics Club, XJTLU_<br>
+
 ---
 
 <!-- ### Footer
