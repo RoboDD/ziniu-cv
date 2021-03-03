@@ -21,8 +21,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Research Insterest
-Robotics, Real-time motion planning and decision making. I am actively looking for an MPhi./Ph.d. position in autonomous systems, Intelligent machine, Robotics in 2022 fall.
+## About
+
+Research Interst: Robotics and its application, quad-rotors, real-time motion planning and decision making, fault-torlerant control. 
+
+I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
 
 ## Education
 
@@ -37,6 +40,8 @@ P. R. China
 
 ## Publication
 
+Journal:
+
 ### [**TEMPLATE:Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
@@ -45,9 +50,11 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [**TEMPLATE:How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+Poster:
 
-Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
+### [**Simulation of Lithium-ion Battery by COMSOL**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+
+Tongtong ZHANG, **Ziniu WU** and Xi CHEN.<br>
 
 ## Research Experience
 
