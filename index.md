@@ -39,9 +39,9 @@ P. R. China
 ## Publication
 
 Journal:
-### [**Real-Time Path Planning for USVs Based on an Improved D* Lite**]()
+### [**Real-Time Path Planning for USVs Based on an Improved D* Lite (Being Process)**]()
 Xiaohui Zhu, Bin Yan, Yong Yue, Wei Wang, **Ziniu Wu**, Yijie Chu and Shanliang Yao.<br> 
-_Control Engineering Practice (JCR Q2, 3.193)._<br>
+_Control Engineering Practice (JCR Q2, IF 3.193)._<br>
 [[PDF]()]
 [[BibTeX]()]
 
