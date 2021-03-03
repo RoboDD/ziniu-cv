@@ -90,11 +90,11 @@ _Skysys Intelligent Technology_<br>
 
 ## Honors & Awards
 
-2nd in Online Assessment of RoboMaster 2020 `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
-3rd in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
-Living Book Certificate `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
-Outstanding Aesthetic Design Award of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
-3rd in International Region of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+[**2nd in Online Assessment of RoboMaster 2020**]() `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
+[**3rd in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition**]() `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
+[**Living Book Certificate**]() `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
+[**Outstanding Aesthetic Design Award of RoboMaster 2019**]() `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+[**3rd in International Region of RoboMaster 2019**]() `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
 
 ## Technical Skills
 
