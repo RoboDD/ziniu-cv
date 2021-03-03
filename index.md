@@ -23,7 +23,7 @@ Supported arguments:
 
 ## About
 
-> My research intersts include robotics and its application, quad-rotors, real-time motion planning and decision making and fault-torlerant control. I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
+My research interests include robotics and its application, real-time motion planning and decision making and fault-torlerant control. I am actively looking for an MPhi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
 
 ## Education
 
@@ -47,7 +47,7 @@ _Control Engineering Practice (JCR Q2, IF 3.193)._<br>
 [[BibTeX]()]
 -->
 
-<br>Poster:
+Poster:
 ### [**Simulation of Lithium-ion Battery by COMSOL**]()
 Tongtong Zhang, **Ziniu Wu** and Xi Chen.<br>
 _2019 SURF Poster Day._<br>
