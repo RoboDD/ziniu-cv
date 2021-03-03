@@ -23,7 +23,7 @@ Supported arguments:
 
 ## About
 
-My research interests include robotics and its application, flying car and future transportation, real-time motion planning and decision making algorithm and fault-torlerant system architecture. I am actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
+My research interests include mobile robotics, flying car, future transportation systems, real-time motion planning, decision making algorithm and fault-tolerant system architecture. I am actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
 
 ## Education
 
