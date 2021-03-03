@@ -48,7 +48,7 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-Poster:
+<br>Poster:<br>
 
 ### [**Simulation of Lithium-ion Battery by COMSOL**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
 Tongtong ZHANG, **Ziniu WU** and Xi CHEN.<br>
