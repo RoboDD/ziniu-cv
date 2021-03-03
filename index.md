@@ -59,13 +59,13 @@ _2019 SURF Poster Day._<br>
 
 _Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
 Project: 3D Modelling of River Systems Based Virtual Reality.<br>
-Supervisor: Dr. Xiaohui ZHU, Prof. Yong YUE.<br>
+Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
 _Xi'an Jiaotong-Liverpool University, School of Science_<br>
 Project: Simulation of Lithium-ion Battery by COMSOL.<br>
-Supervisor: Dr. Xi CHEN.<br>
+Supervisor: Dr. Xi Chen.<br>
 
 ## Internship Experience
 
@@ -105,12 +105,12 @@ _Skysys Intelligent Technology_<br>
 ### [**Captain**]() `Aug. 2019 - Jun. 2020`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Supervisor: Prof. Chun ZHAO.<br>
+Supervisor: Dr. Chun Zhao.<br>
 
 ### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Supervisor: Prof. Chun ZHAO.<br>
+Supervisor: Dr. Chun Zhao.<br>
 
 ### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
