@@ -53,8 +53,9 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 Poster:
 
 ### [**Simulation of Lithium-ion Battery by COMSOL**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-
 Tongtong ZHANG, **Ziniu WU** and Xi CHEN.<br>
+_2019 SURF Poster Day_<br>
+[[PDF]()]
 
 ## Research Experience
 
