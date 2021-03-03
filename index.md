@@ -32,7 +32,7 @@ Suzhou, Jiangsu Province, P. R. China
 - B.Sc. in Applied Mathematics
 
 
-## Publications
+## Publication
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
@@ -48,14 +48,14 @@ Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshin
 
 ## Experience
 
-### **Microsoft Research** `2020.5 -`
+### **Xi'an Jiaotong-Liverpool University, School of Advanced Technology** `Sept. 2020 - Present`
 
-_Research Intern_<br>
+_Undergraduate Research Assistant_<br>
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **Xi'an Jiaotong-Liverpool University, Research Experiences for Undergraduate** `Jul. 2019 - Aug. 2019`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_Summer Undegraduate Reaserch Fellow (SURF)_<br>
+
 
 ### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
 
