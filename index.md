@@ -21,6 +21,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Research Insterest
+Robotics, Real-time motion planning and decision making. I am actively looking for an MPhi./Ph.d. position in autonomous systems, Intelligent machine, Robotics in 2022 fall.
+
 ## Education
 
 ### **Xi'an Jiaotong-Liverpool University** `2018.9 -`
@@ -48,13 +51,30 @@ Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshin
 
 ## Research Experience
 
-### **Undergraduate Research Assistant** `Sept. 2020 - Present`
+### [**Undergraduate Research Assistant**] `Sept. 2020 - Present`
 
 _Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
 
-### **Summer Undegraduate Reaserch Fellow (SURF)** `Jul. 2019 - Aug. 2019`
+### [**Summer Undegraduate Reaserch Fellow (SURF)**] `Jul. 2019 - Aug. 2019`
 
 _Xi'an Jiaotong-Liverpool University, School of Science_<br>
+
+## Internship Experience
+
+### [**Engineer Intern**] `Sept. 2020 - Present`
+
+_Virtual Engineering Center of AI University Research Center_<br>
+
+### [**Student Lecturer**] `Sept. 2019 - Nov. 2019`
+
+_Xi’an Jiaotong-Liverpool University_<br>
+_Course Name: Introduction to Multi-rotors_<br>
+
+### [**Engineer Intern**] `Dec. 2018 - Feb. 2019`
+
+_Skysys Intelligent Technology_<br>
+
+
 
 ## Honors & Awards
 
