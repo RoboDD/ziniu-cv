@@ -9,8 +9,9 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Ziniu **Wu**
 
+I AM EDITING THE PROFILE FROM TEMPLATE
 <!--
 include contact information from the front matter
 Supported arguments:
