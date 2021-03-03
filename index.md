@@ -1,17 +1,16 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Ziniu WU
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: ziniu.wu18@student.xjtlu.edu.cn
+  text: E-mail
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://www.linkedin.com/in/ziniu-wu18/
+  text: Linkedin
 ---
 
 # Ziniu **WU**
 
-I AM EDITING THE PROFILE FROM TEMPLATE
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -33,7 +32,7 @@ Suzhou, Jiangsu Province, P. R. China
 
 - B.Sc. in Applied Mathematics
 
-
+# <BELOW IS TEMPLATE>
 ## Publications
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
