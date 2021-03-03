@@ -33,22 +33,24 @@ Supported arguments:
 P. R. China
 ```
 
-- B.Sc. in Applied Mathematics
+- B.Sc. in Applied Mathematics.
 
 
 ## Publication
 
+<!--
 Journal:
 ### [**Real-Time Path Planning for USVs Based on an Improved D* Lite (Being Process)**]()
 Xiaohui Zhu, Bin Yan, Yong Yue, Wei Wang, **Ziniu Wu**, Yijie Chu and Shanliang Yao.<br> 
 _Control Engineering Practice (JCR Q2, IF 3.193)._<br>
 [[PDF]()]
 [[BibTeX]()]
+-->
 
 <br>Poster:
 ### [**Simulation of Lithium-ion Battery by COMSOL**]()
 Tongtong Zhang, **Ziniu Wu** and Xi Chen.<br>
-_2019 SURF Poster Day_<br>
+_2019 SURF Poster Day._<br>
 [[PDF]()]
 
 ## Research Experience
@@ -56,18 +58,14 @@ _2019 SURF Poster Day_<br>
 ### [**Undergraduate Research Assistant**]() `Sept. 2020 - Present`
 
 _Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
-
-_Project: 3D Modelling of River Systems Based Virtual Reality_<br>
-
-_Supervisor: Dr. Xiaohui ZHU, Prof. Yong YUE_<br>
+Project: 3D Modelling of River Systems Based Virtual Reality.<br>
+Supervisor: Dr. Xiaohui ZHU, Prof. Yong YUE.<br>
 
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
 _Xi'an Jiaotong-Liverpool University, School of Science_<br>
-
-_Project: Simulation of Lithium-ion Battery by COMSOL_<br>
-
-_Supervisor: Dr. Xi CHEN_<br>
+Project: Simulation of Lithium-ion Battery by COMSOL.<br>
+Supervisor: Dr. Xi CHEN.<br>
 
 ## Internship Experience
 
@@ -78,7 +76,7 @@ _Virtual Engineering Center of AI University Research Center_<br>
 ### [**Student Lecturer**]() `Sept. 2019 - Nov. 2019`
 
 _Xi’an Jiaotong-Liverpool University_<br>
-_Course Name: Introduction to Multi-rotors_<br>
+Course Name: Introduction to Multi-rotors.<br>
 
 ### [**Engineer Intern**]() `Dec. 2018 - Feb. 2019`
 
@@ -96,11 +94,11 @@ _Skysys Intelligent Technology_<br>
 
 ## Technical Skills
 
-[**Software**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS
+[**Software**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS;
 
-[**Programming Language**](): Python, Matlab
+[**Programming Language**](): Python, Matlab;
 
-[**Self-taught Course**](): Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI)
+[**Self-taught Course**](): Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI).
 
 ## Extracurricular Activities
 
