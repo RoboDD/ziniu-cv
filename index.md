@@ -26,7 +26,7 @@ Robotics, Real-time motion planning and decision making. I am actively looking f
 
 ## Education
 
-### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `2018.9 -`
+### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `Sept. 2018 - Jun. 2022`
 
 ```
 P. R. China
@@ -37,7 +37,7 @@ P. R. China
 
 ## Publication
 
-### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
+### [**TEMPLATE:Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
@@ -45,7 +45,7 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-### [**How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
+### [**TEMPLATE:How Domain Experts Create Conceptual Diagrams and Implications for Tool Design**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
 
 Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
 
@@ -78,11 +78,17 @@ _Skysys Intelligent Technology_<br>
 
 ## Honors & Awards
 
-Second Prize in Online Assessment of RoboMaster 2020 `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
-Third prize in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
+2nd in Online Assessment of RoboMaster 2020 `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
+3rd in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
 Living Book Certificate `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
 Outstanding Aesthetic Design Award of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
-Third Prize in International Region of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+3rd in International Region of RoboMaster 2019 `DJI RoboMaster Organizing Committee, Aug. 2019` <br>
+
+## Technical Skills
+
+Software: CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS
+Programming Language: Python, C++, Matlab
+Self-taught Course: Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI)
 
 ## Extracurricular Activities
 
