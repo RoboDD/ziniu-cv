@@ -26,7 +26,7 @@ Supported arguments:
 ### **Xi'an Jiaotong-Liverpool University** `2018.9 -`
 
 ```
-Suzhou, Jiangsu Province, P. R. China
+P. R. China
 ```
 
 - B.Sc. in Applied Mathematics
@@ -46,32 +46,15 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 
 Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshine.<br>
 
-## Experience
+## Research Experience
 
-### **Xi'an Jiaotong-Liverpool University, School of Advanced Technology** `Sept. 2020 - Present`
+### **Undergraduate Research Assistant** `Sept. 2020 - Present`
 
-_Undergraduate Research Assistant_<br>
+_Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
 
-### **Xi'an Jiaotong-Liverpool University, Research Experiences for Undergraduate** `Jul. 2019 - Aug. 2019`
+### **Summer Undegraduate Reaserch Fellow (SURF)** `Jul. 2019 - Aug. 2019`
 
-_Summer Undegraduate Reaserch Fellow (SURF)_<br>
-
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
-
-## Mentoring
-
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+_Xi'an Jiaotong-Liverpool University, School of Science_<br>
 
 ## Honors & Awards
 
