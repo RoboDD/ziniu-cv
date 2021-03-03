@@ -23,7 +23,7 @@ Supported arguments:
 
 ## About
 
-> My research intersts are robotics and its application, quad-rotors, real-time motion planning and decision making, fault-torlerant control. I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
+> My research intersts include robotics and its application, quad-rotors, real-time motion planning and decision making and fault-torlerant control. I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
 
 ## Education
 
@@ -39,17 +39,15 @@ P. R. China
 ## Publication
 
 Journal:
-### [**TEMPLATE:Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
-Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
-_ACM Transactions on Graphics (SIGGRAPH'20)._<br>
-[[PDF](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/siggraph20-penrose.txt)]
-[[www](http://penrose.ink/siggraph20.html)]
-[[repo](https://github.com/penrose/penrose)]
+### [**Real-Time Path Planning for USVs Based on an Improved D* Lite**]()
+Xiaohui Zhu, Bin Yan, Yong Yue, Wei Wang, **Ziniu Wu**, Yijie Chu and Shanliang Yao.<br> 
+_Control Engineering Practice (JCR Q2, 3.193)._<br>
+[[PDF]()]
+[[BibTeX]()]
 
 <br>Poster:
-### [**Simulation of Lithium-ion Battery by COMSOL**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
-Tongtong ZHANG, **Ziniu WU** and Xi CHEN.<br>
+### [**Simulation of Lithium-ion Battery by COMSOL**]()
+Tongtong Zhang, **Ziniu Wu** and Xi Chen.<br>
 _2019 SURF Poster Day_<br>
 [[PDF]()]
 
