@@ -23,9 +23,7 @@ Supported arguments:
 
 ## About
 
-Research Interst: Robotics and its application, quad-rotors, real-time motion planning and decision making, fault-torlerant control. 
-
-I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
+> My research intersts are robotics and its application, quad-rotors, real-time motion planning and decision making, fault-torlerant control. I am actively looking for an MPhi./Ph.d. opportunity in autonomous systems, Intelligent machine, Robotics in 2022 fall.
 
 ## Education
 
