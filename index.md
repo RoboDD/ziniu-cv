@@ -55,9 +55,13 @@ Dor Ma'ayan\*, **Wode Ni\***, Katherine Ye, Chinmay Kulkarni, and Joshua Sunshin
 
 _Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
 
+_Supervisor: Dr. Xiaohui ZHU, Prof. Yong YUE_<br>
+
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
 _Xi'an Jiaotong-Liverpool University, School of Science_<br>
+
+_Supervisor: Dr. Xi CHEN_<br>
 
 ## Internship Experience
 
@@ -86,9 +90,11 @@ Outstanding Aesthetic Design Award of RoboMaster 2019 `DJI RoboMaster Organizing
 
 ## Technical Skills
 
-Software: CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS
-Programming Language: Python, C++, Matlab
-Self-taught Course: Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI)
+[**Software**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS
+
+[**Programming Language**](): Python, Matlab
+
+[**Self-taught Course**](): Computational Motion Planning, Aerial Robotics, Control Theory for Mobile Robots, Math for Machine Learning, Linux and Linux Tools, Git, Getting Started with AI on Jetson Nano, Introduction to Artificial Intelligence (AI)
 
 ## Extracurricular Activities
 
