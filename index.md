@@ -32,7 +32,8 @@ Suzhou, Jiangsu Province, P. R. China
 
 - B.Sc. in Applied Mathematics
 
-# <BELOW IS TEMPLATE>
+## BELOW IS TEMPLATE 
+
 ## Publications
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
