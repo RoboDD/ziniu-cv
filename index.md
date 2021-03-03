@@ -38,8 +38,7 @@ P. R. China
 
 ## Publication
 
-Journal:
-
+<br>Journal:
 ### [**TEMPLATE:Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
@@ -48,8 +47,7 @@ _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
 [[www](http://penrose.ink/siggraph20.html)]
 [[repo](https://github.com/penrose/penrose)]
 
-<br>Poster:<br>
-
+<br>Poster:
 ### [**Simulation of Lithium-ion Battery by COMSOL**]({{ page.homepage.url }}/assets/chi-20-natural-diagramming.pdf)
 Tongtong ZHANG, **Ziniu WU** and Xi CHEN.<br>
 _2019 SURF Poster Day_<br>
