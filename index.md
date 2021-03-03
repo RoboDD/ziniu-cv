@@ -105,10 +105,12 @@ _Skysys Intelligent Technology_<br>
 ### [**Captain**]() `Aug. 2019 - Jun. 2020`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
+Supervisor: Prof. Chun ZHAO.<br>
 
 ### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
+Supervisor: Prof. Chun ZHAO.<br>
 
 ### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
