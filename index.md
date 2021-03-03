@@ -23,7 +23,6 @@ Supported arguments:
 
 ## Education
 
-
 ### **Xi'an Jiaotong-Liverpool University** `2018.9 -`
 
 ```
@@ -110,16 +109,11 @@ Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/r
 
 ## Honors & Awards
 
-CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Travel Award PL Mentoring Workshop (PLMW) `SPLASH, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+Second Prize in Online Assessment of RoboMaster 2020 `DJI RoboMaster Organizing Committee, Aug. 2020` <br>
+Third prize in 2v2 Infantry Confrontation of RoboMaster 2019 Jiangsu Regional Competition `DJI RoboMaster Organizing Committee, Dec. 2019` <br>
+Living Book Certificate `Xi'an Jiaotong-Liverpool University Library, Oct. 2019` <br>
+Outstanding Aesthetic Design Award of RoboMaster 2019 `Aug. 2019` <br>
+Third Prize in International Region of RoboMaster 2019 `Aug. 2019` <br>
 
 ---
 
