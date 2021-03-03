@@ -26,7 +26,7 @@ Robotics, Real-time motion planning and decision making. I am actively looking f
 
 ## Education
 
-### **Xi'an Jiaotong-Liverpool University** `2018.9 -`
+### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `2018.9 -`
 
 ```
 P. R. China
@@ -94,9 +94,28 @@ _XJTLU and UoL RoboMaster Team (GMaster)_<br>
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
 
-### [**Vice President**]
+### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
 _GMaster Robotics Club, XJTLU_<br>
+
+
+## Volunteer Experience
+
+### [**Student Volunteer**]() `2019`
+
+_Deep Learning Institute (DLI) GPU Technology Conference 2019_<br>
+
+### [**Volunteer**]() `2019`
+
+_Buddy Program in XJTLU_<br>
+
+### [**Student Volunteer**]() `2019`
+
+_InnovFest Suzhou 2019 (NUS Suzhou Research Institute)_<br>
+
+### [**Student Volunteer**]() `2019`
+
+_IEEE International Conference on IC Design and Technology 2019_<br>
 
 ---
 
