@@ -63,11 +63,15 @@ _2019 SURF Poster Day_<br>
 
 _Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
 
+_Project: 3D Modelling of River Systems Based Virtual Reality_<br>
+
 _Supervisor: Dr. Xiaohui ZHU, Prof. Yong YUE_<br>
 
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
 _Xi'an Jiaotong-Liverpool University, School of Science_<br>
+
+_Project: Simulation of Lithium-ion Battery by COMSOL_<br>
 
 _Supervisor: Dr. Xi CHEN_<br>
 
