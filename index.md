@@ -38,7 +38,7 @@ P. R. China
 
 ## Publication
 
-<br>Journal:
+Journal:
 ### [**TEMPLATE:Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
 _ACM Transactions on Graphics (SIGGRAPH'20)._<br>
