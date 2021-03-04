@@ -2,8 +2,8 @@
 layout: cv
 title: Ziniu WU
 email:
-  url: ziniu.wu18@student.xjtlu.edu.cn
-  text: E-mail
+  url: 
+  text: ziniu.wu18@student.xjtlu.edu.cn
 homepage:
   url: https://www.linkedin.com/in/ziniu-wu18/
   text: Linkedin
