@@ -21,9 +21,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## About
-
-I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include artificial intelligence techniques for mobile robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intelligent machines for the next generation of transportation systems, such as autonomous vehicles for long-haul trucking and urban air mobility systems for passenger transportation. Currently, I focus on two problems: real-time collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the mecanum-wheeled robot. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
+<!--I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include artificial intelligence techniques for mobile robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intelligent machines for the next generation of transportation systems, such as autonomous vehicles for long-haul trucking and urban air mobility systems for passenger transportation. Currently, I focus on two problems: real-time collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the mecanum-wheeled robot. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.-->
 <!--In addition, I am proposing my final year project ideas, such as robot swarms formulation and mission scheduling using an improved AI-enhanced operational research method. Passionate partners in major of MRS, ICS and EST are preffered to do the project together. If there is any collaboration chance, feel free to contact me via e-mail. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
 -->
 
@@ -59,21 +57,21 @@ _2019 SURF Poster Day._<br>
 
 ### [**Undergraduate Research Assistant**]() `Sept. 2020 - Present`
 
-_Xi'an Jiaotong-Liverpool University, School of Advanced Technology_<br>
+_School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
 Project: 3D Modelling of River Systems Based Virtual Reality.<br>
 Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
 
-_Xi'an Jiaotong-Liverpool University, School of Science_<br>
+_School of Science, Xi'an Jiaotong-Liverpool University_<br>
 Project: Simulation of Lithium-ion Battery by COMSOL.<br>
 Supervisor: Dr. Xi Chen.<br>
 
 ## Internship Experience
 
-### [**Engineer Intern**]() `Sept. 2020 - Present`
+### [**Intern**]() `Sept. 2020 - Present`
 
-_Virtual Engineering Center of AI University Research Center_<br>
+_AI University Research Center, Xi'an Jiaotong-Liverpool University_<br>
 
 ### [**Student Lecturer**]() `Sept. 2019 - Nov. 2019`
 
@@ -116,7 +114,7 @@ Supervisor: Dr. Chun Zhao.<br>
 
 ### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
-_GMaster Robotics Club, XJTLU_<br>
+_GMaster Robotics Club, Xi'an Jiaotong-Liverpool University_<br>
 
 
 ## Volunteer Experience
