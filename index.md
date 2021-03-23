@@ -36,7 +36,7 @@ P. R. China
 - B.Sc. in Applied Mathematics.
 
 
-## Publication
+<!--## Publication-->
 
 <!--
 Journal:
@@ -46,13 +46,13 @@ _Control Engineering Practice (JCR Q2, IF 3.193)._<br>
 [[PDF]()]
 [[BibTeX]()]
 -->
-
+<!--
 Poster:
 ### [**Simulation of Lithium-ion Battery by COMSOL**]()
 Tongtong Zhang, [**Ziniu Wu**]() and Xi Chen.<br>
 _2019 SURF Poster Day._<br>
 [[PDF]()]
-
+-->
 ## Research Experience
 
 ### [**Undergraduate Research Assistant**]() `Sept. 2020 - Present`
