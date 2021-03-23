@@ -52,8 +52,13 @@ _2019 SURF Poster Day._<br>
 [[PDF]()]
 -->
 ## Research Experience
-
-### [**Undergraduate Research Assistant**]() `Sept. 2020 - Present`
+<!--
+### [**Research Assistant**]() `Apr. 2021 - Present`
+_School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
+Project: Development of UAV for Onsite Water Sampling.<br>
+Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
+-->
+### [**Research Assistant**]() `Sept. 2020 - Mar. 2021`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
 Project: 3D Modelling of River Systems Based Virtual Reality.<br>
