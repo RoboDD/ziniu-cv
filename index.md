@@ -33,8 +33,8 @@ Supported arguments:
 P. R. China
 ```
 
-- B.Sc. in Applied Mathematics.
-
+- B.Sc. in Applied Mathematics;
+- GPA: 3.32/4.00.
 
 <!--## Publication-->
 
