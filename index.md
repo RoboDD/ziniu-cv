@@ -100,15 +100,20 @@ _Skysys Intelligent Technology_<br>
 
 ## Extracurricular Activities
 
+### [**Team Leader**]() `Sep. 2012 - Present`
+
+_China's Service Outsourcing Innovation and Entrepreneurship Competition for College Students_<br>
+Supervisor: Dr.Yong Yue and Dr. Hai-Ning Liang
+
 ### [**Captain**]() `Aug. 2019 - Jun. 2020`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Supervisor: Dr. Chun Zhao.<br>
+Advisor: Dr. Chun Zhao.<br>
 
 ### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Supervisor: Dr. Chun Zhao.<br>
+Advisor: Dr. Chun Zhao.<br>
 
 ### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
