@@ -58,7 +58,7 @@ _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
 Project: Development of UAV for Onsite Water Sampling.<br>
 Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 -->
-### [**Research Assistant**]() `Sept. 2020 - Mar. 2021`
+### [**Research Assistant**]() `Sept. 2020 - Apr. 2021`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
 Project: 3D Modelling of River Systems Based Virtual Reality.<br>
@@ -72,9 +72,9 @@ Supervisor: Dr. Xi Chen.<br>
 
 ## Internship Experience
 
-### [**Intern**]() `Sept. 2020 - Present`
+### [**Intern**]() `Sept. 2020 - Mar. 2021`
 
-_AI University Research Center, Xi'an Jiaotong-Liverpool University_<br>
+_Virtrual Engineering Center, AI Univ. Research Center, XJTLU_<br>
 
 ### [**Student Lecturer**]() `Sept. 2019 - Nov. 2019`
 
@@ -97,7 +97,7 @@ _Skysys Intelligent Technology_<br>
 
 ## Technical Skills
 
-[**Software**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS;
+[**Software & Framework**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS;
 
 [**Programming Language**](): Python, Matlab;
 
@@ -108,7 +108,7 @@ _Skysys Intelligent Technology_<br>
 ### [**Team Leader**]() `Sep. 2012 - Present`
 
 _China's Service Outsourcing Innovation and Entrepreneurship Competition for College Students_<br>
-Supervisor: Dr.Yong Yue and Dr. Hai-Ning Liang
+Supervisor: Dr.Yong Yue and Dr. Xiaohui Zhu
 
 ### [**Captain**]() `Aug. 2019 - Jun. 2020`
 
@@ -147,4 +147,4 @@ _IEEE International Conference on IC Design and Technology 2019_<br>
 
 <!-- ### Footer
 
-Last updated: Mar. 2021 -->
+Last updated: Apr. 2021 -->
