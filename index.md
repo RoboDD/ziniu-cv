@@ -105,7 +105,11 @@ _Skysys Intelligent Technology_<br>
 
 ## Extracurricular Activities
 
-### [**Team Leader**]() `Sep. 2012 - Present`
+### [**Team Leader**]() `Mar. 2021 - Present`
+
+_The National University Student Intelligent Car Race_<br>
+
+### [**Team Leader**]() `Sep. 2020 - Present`
 
 _China's Service Outsourcing Innovation and Entrepreneurship Competition for College Students_<br>
 Supervisor: Dr.Yong Yue and Dr. Xiaohui Zhu
