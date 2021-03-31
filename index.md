@@ -21,9 +21,8 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-<!--I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include artificial intelligence techniques for mobile robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intelligent machines for the next generation of transportation systems, such as autonomous vehicles for long-haul trucking and urban air mobility systems for passenger transportation. Currently, I focus on two problems: real-time collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the mecanum-wheeled robot. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.-->
-<!--In addition, I am proposing my final year project ideas, such as robot swarms formulation and mission scheduling using an improved AI-enhanced operational research method. Passionate partners in major of MRS, ICS and EST are preffered to do the project together. If there is any collaboration chance, feel free to contact me via e-mail. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
--->
+I am Ziniu Wu, a junior applied mathematics student at the Xi'an Jiaotong-Liverpool University. My research interests include artificial intelligence techniques for mobile robotics, future transportation systems and fault-tolerant system architecture. My research goal is to develop reliable, safe and efficient intelligent machines for the next generation of transportation systems, such as autonomous vehicles for long-haul trucking and urban air mobility systems for passenger transportation. Currently, I focus on two problems: real-time collision avoidance for the micro aerial vehicle and fault-tolerant velocity control for the mecanum-wheeled robot. In addition, I am proposing my final year project ideas, such as robot swarms formulation and mission scheduling using an improved AI-enhanced operational research method. Passionate partners in major of MRS, ICS and EST are preffered to do the project together. If there is any collaboration chance, feel free to contact me via e-mail. I am also actively looking for an M.Phi./Ph.d. opportunity in Autonomous Systems, Intelligent Machine, Robotics in 2022 fall.
+
 
 ## Education
 
@@ -52,12 +51,13 @@ _2019 SURF Poster Day._<br>
 [[PDF]()]
 -->
 ## Research Experience
-<!--
-### [**Research Assistant**]() `Apr. 2021 - Present`
+
+### [**Research Assistant**]() `Apr. 2020 - Present`
+
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
-Project: Development of UAV for Onsite Water Sampling.<br>
+Project: Development of MAV for On-site Water Sampling.<br>
 Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
--->
+
 ### [**Research Assistant**]() `Sept. 2020 - Apr. 2021`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
