@@ -105,9 +105,9 @@ _Skysys Intelligent Technology_<br>
 
 ## Extracurricular Activities
 
-### [**Team Leader**]() `Mar. 2021 - Present`
+<!--### [**Team Leader**]() `Mar. 2021 - Present`-->
 
-_The National University Student Intelligent Car Race_<br>
+<!--_The National University Student Intelligent Car Race_<br>-->
 
 ### [**Team Leader**]() `Sep. 2020 - Present`
 
