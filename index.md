@@ -55,7 +55,7 @@ _2019 SURF Poster Day._<br>
 ### [**Research Assistant**]() `Apr. 2020 - Present`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
-Project: Development of MAV for On-site Water Sampling.<br>
+Project: Development of Micro Aerial Vehicle for On-site Water Sampling.<br>
 Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
 ### [**Research Assistant**]() `Sept. 2020 - Apr. 2021`
