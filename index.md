@@ -52,16 +52,12 @@ _2019 SURF Poster Day._<br>
 -->
 ## Research Experience
 
-### [**Research Assistant**]() `Apr. 2020 - Present`
+
+### [**Research Assistant**]() `Sept. 2020 - Present`
 
 _School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
-Project: Development of Micro Aerial Vehicle for On-site Water Sampling.<br>
-Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
-
-### [**Research Assistant**]() `Sept. 2020 - Apr. 2021`
-
-_School of Advanced Technology, Xi'an Jiaotong-Liverpool University_<br>
-Project: 3D Modelling of River Systems Based Virtual Reality.<br>
+Project 2: Development of Micro Aerial Vehicle for On-site Water Sampling.<br>
+Project 1: 3D Modelling of River Systems Based Virtual Reality.<br>
 Supervisor: Dr. Xiaohui Zhu, Dr. Yong Yue.<br>
 
 ### [**Summer Undegraduate Reaserch Fellow (SURF)**]() `Jul. 2019 - Aug. 2019`
@@ -105,24 +101,24 @@ _Skysys Intelligent Technology_<br>
 
 ## Extracurricular Activities
 
-<!--### [**Team Leader**]() `Mar. 2021 - Present`-->
+### [**Team Member**]() `Mar. 2021 - Present`
 
-<!--_The National University Student Intelligent Car Race_<br>-->
+_The National University Student Intelligent Car Race_<br>
 
-### [**Team Leader**]() `Sep. 2020 - Present`
+
+### [**Team Member**]() `Sep. 2020 - Present`
 
 _China's Service Outsourcing Innovation and Entrepreneurship Competition for College Students_<br>
-Supervisor: Dr.Yong Yue and Dr. Xiaohui Zhu
+
 
 ### [**Captain**]() `Aug. 2019 - Jun. 2020`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Advisor: Dr. Chun Zhao.<br>
 
-### [**Team Member of Mechanical Design**]() `Oct. 2018 - Aug. 2019`
+### [**Team Member of Mechanics**]() `Oct. 2018 - Aug. 2019`
 
 _XJTLU and UoL RoboMaster Team (GMaster)_<br>
-Advisor: Dr. Chun Zhao.<br>
+
 
 ### [**Vice President**]() `Mar. 2019 - Jun. 2019`
 
@@ -151,4 +147,4 @@ _IEEE International Conference on IC Design and Technology 2019_<br>
 
 <!-- ### Footer
 
-Last updated: Apr. 2021 -->
+Last updated: May. 2021 -->
