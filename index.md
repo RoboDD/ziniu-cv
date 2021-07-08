@@ -25,6 +25,14 @@ Supported arguments:
 
 
 ## Education
+### [**National University of Defense Technology**]() `July 2021`
+
+```
+P. R. China
+```
+
+- Summer School: Intelligent Unmanned System and Robotics;
+
 
 ### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `Sept. 2018 - Jun. 2022`
 
