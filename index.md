@@ -25,7 +25,7 @@ Supported arguments:
 
 
 ## Education
-### [**National University of Defense Technology**]() `July 2021`
+<!-- ### [**National University of Defense Technology**]() `July 2021`
 
 ```
 P. R. China
@@ -33,7 +33,7 @@ P. R. China
 
 - Summer School: Intelligent Unmanned System and Robotics;
 
-
+ -->
 ### [**Xi'an Jiaotong-Liverpool University**](https://www.xjtlu.edu.cn/en) `Sept. 2018 - Jun. 2022`
 
 ```
@@ -101,7 +101,7 @@ _Skysys Intelligent Technology_<br>
 
 ## Technical Skills
 
-[**Software & Framework**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS;
+[**Software & Framework**](): CAD(SolidWorks and Fusion360), Linux and Linux Tools, ROS，PX4-Autopilot;
 
 [**Programming Language**](): Python, Matlab;
 
